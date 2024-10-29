@@ -1,0 +1,6 @@
+#CommonData
+#Fri Sep 20 18:55:16 PDT 2024
+password=admin
+browser=chrome
+url=http\://localhost\:8888
+username=admin
